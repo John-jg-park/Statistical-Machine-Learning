@@ -1,4 +1,4 @@
-# CSE 575 - Statistical Machine Learning - Fall 2021 
+# CSE 575 - Statistical Machine Learning
 
 * Project 1: Density Estimation and Classification
 * Project 2: Unsupervised Learning (K-means)
